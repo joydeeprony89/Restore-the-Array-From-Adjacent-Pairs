@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Restore_the_Array_From_Adjacent_Pairs</RootNamespace>
+  </PropertyGroup>
+
+</Project>
